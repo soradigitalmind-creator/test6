@@ -3,24 +3,24 @@
     "slug": "battery",
     "title": "Battery",
     "sources": 1007,
-    "subgenres": 77,
-    "parent_subgenres": 8,
-    "child_subgenres": 69,
+    "subgenres": 52,
+    "parent_subgenres": 9,
+    "child_subgenres": 43,
     "entities": 864,
     "claims": 84,
     "abstraction_label": "A family of Battery technologies.",
-    "updated_at": "2026-03-19T08:02:48.081856Z"
+    "updated_at": "2026-03-19T09:51:30.901263Z"
   },
   {
     "slug": "biotechnology",
     "title": "Biotechnology",
     "sources": 1057,
-    "subgenres": 74,
-    "parent_subgenres": 4,
-    "child_subgenres": 70,
+    "subgenres": 55,
+    "parent_subgenres": 5,
+    "child_subgenres": 50,
     "entities": 1529,
     "claims": 0,
     "abstraction_label": "A family of Biotechnology technologies.",
-    "updated_at": "2026-03-19T08:11:11.917725Z"
+    "updated_at": "2026-03-19T09:47:11.726691Z"
   }
 ]
