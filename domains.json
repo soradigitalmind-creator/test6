@@ -2,14 +2,14 @@
   {
     "slug": "battery",
     "title": "Battery",
-    "sources": 1007,
-    "subgenres": 17,
-    "parent_subgenres": 8,
-    "child_subgenres": 9,
-    "entities": 864,
-    "claims": 84,
+    "sources": 1129,
+    "subgenres": 22,
+    "parent_subgenres": 11,
+    "child_subgenres": 11,
+    "entities": 175,
+    "claims": 39,
     "abstraction_label": "A family of Battery technologies.",
-    "updated_at": "2026-03-19T10:45:04.060113Z"
+    "updated_at": "2026-03-19T11:40:07.322096Z"
   },
   {
     "slug": "biotechnology",
