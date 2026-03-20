@@ -9,18 +9,6 @@
     "entities": 864,
     "claims": 84,
     "abstraction_label": "A family of Battery technologies.",
-    "updated_at": "2026-03-19T14:50:30.973826Z"
-  },
-  {
-    "slug": "biotechnology",
-    "title": "Biotechnology",
-    "sources": 1057,
-    "subgenres": 53,
-    "parent_subgenres": 5,
-    "child_subgenres": 48,
-    "entities": 1529,
-    "claims": 0,
-    "abstraction_label": "A family of Biotechnology technologies.",
-    "updated_at": "2026-03-19T15:41:30.477301Z"
+    "updated_at": "2026-03-20T00:50:35.217858Z"
   }
 ]
