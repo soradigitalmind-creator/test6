@@ -1,0 +1,354 @@
+[
+  {
+    "label": "machine learning",
+    "freq": 4463,
+    "score": 3.0,
+    "raw_examples": [
+      "Machine learning",
+      "machine learning",
+      "machine learning.",
+      "machines learning"
+    ]
+  },
+  {
+    "label": "of machine learning",
+    "freq": 326,
+    "score": 3.0,
+    "raw_examples": [
+      "of machine learning",
+      "of machine learning."
+    ]
+  },
+  {
+    "label": "machine learning algorithms",
+    "freq": 152,
+    "score": 3.0,
+    "raw_examples": [
+      "machine learning algorithms",
+      "machine learning algorithms."
+    ]
+  },
+  {
+    "label": "machine learning and",
+    "freq": 139,
+    "score": 3.0,
+    "raw_examples": [
+      "machine learning and"
+    ]
+  },
+  {
+    "label": "machine learning in",
+    "freq": 137,
+    "score": 3.0,
+    "raw_examples": [
+      "machine learning in"
+    ]
+  },
+  {
+    "label": "in machine learning",
+    "freq": 130,
+    "score": 3.0,
+    "raw_examples": [
+      "in machine learning",
+      "in machine learning."
+    ]
+  },
+  {
+    "label": "and machine learning",
+    "freq": 127,
+    "score": 3.0,
+    "raw_examples": [
+      "and machine learning",
+      "and machine learning."
+    ]
+  },
+  {
+    "label": "machine learning for",
+    "freq": 120,
+    "score": 3.0,
+    "raw_examples": [
+      "machine learning for"
+    ]
+  },
+  {
+    "label": "machine learning ml",
+    "freq": 117,
+    "score": 3.0,
+    "raw_examples": [
+      "machine learning ml"
+    ]
+  },
+  {
+    "label": "machine learning techniques",
+    "freq": 111,
+    "score": 3.0,
+    "raw_examples": [
+      "machine learning techniques",
+      "machine learning techniques."
+    ]
+  },
+  {
+    "label": "machine learning methods",
+    "freq": 109,
+    "score": 3.0,
+    "raw_examples": [
+      "machine learning methods",
+      "machine learning methods."
+    ]
+  },
+  {
+    "label": "machine learning models",
+    "freq": 92,
+    "score": 3.0,
+    "raw_examples": [
+      "machine learning models",
+      "machine learning models."
+    ]
+  },
+  {
+    "label": "using machine learning",
+    "freq": 90,
+    "score": 3.0,
+    "raw_examples": [
+      "using machine learning",
+      "using machine learning."
+    ]
+  },
+  {
+    "label": "for machine learning",
+    "freq": 85,
+    "score": 3.0,
+    "raw_examples": [
+      "for machine learning",
+      "for machine learning."
+    ]
+  },
+  {
+    "label": "online machine learning",
+    "freq": 82,
+    "score": 3.0,
+    "raw_examples": [
+      "Online machine learning",
+      "online machine learning"
+    ]
+  },
+  {
+    "label": "on machine learning",
+    "freq": 77,
+    "score": 3.0,
+    "raw_examples": [
+      "on machine learning",
+      "on machine learning."
+    ]
+  },
+  {
+    "label": "the machine learning",
+    "freq": 73,
+    "score": 3.0,
+    "raw_examples": [
+      "the machine learning"
+    ]
+  },
+  {
+    "label": "machine learning in healthcare",
+    "freq": 72,
+    "score": 3.0,
+    "raw_examples": [
+      "Machine Learning in Healthcare"
+    ]
+  },
+  {
+    "label": "machine learning is",
+    "freq": 65,
+    "score": 3.0,
+    "raw_examples": [
+      "machine learning is"
+    ]
+  },
+  {
+    "label": "quantum machine learning",
+    "freq": 55,
+    "score": 3.0,
+    "raw_examples": [
+      "Quantum machine learning",
+      "quantum machine learning",
+      "quantum machine learning."
+    ]
+  },
+  {
+    "label": "adversarial machine learning",
+    "freq": 51,
+    "score": 3.0,
+    "raw_examples": [
+      "Adversarial machine learning",
+      "adversarial machine learning"
+    ]
+  },
+  {
+    "label": "machine learning to",
+    "freq": 47,
+    "score": 3.0,
+    "raw_examples": [
+      "machine learning to"
+    ]
+  },
+  {
+    "label": "machine learning approaches",
+    "freq": 45,
+    "score": 3.0,
+    "raw_examples": [
+      "machine learning approaches",
+      "machine learning approaches."
+    ]
+  },
+  {
+    "label": "machine learning in bioinformatics",
+    "freq": 44,
+    "score": 3.0,
+    "raw_examples": [
+      "Machine Learning in Bioinformatics"
+    ]
+  },
+  {
+    "label": "to machine learning",
+    "freq": 41,
+    "score": 3.0,
+    "raw_examples": [
+      "to machine learning",
+      "to machine learning."
+    ]
+  },
+  {
+    "label": "a machine learning",
+    "freq": 40,
+    "score": 3.0,
+    "raw_examples": [
+      "a machine learning"
+    ]
+  },
+  {
+    "label": "machine learning a",
+    "freq": 36,
+    "score": 3.0,
+    "raw_examples": [
+      "machine learning a"
+    ]
+  },
+  {
+    "label": "machine learning and algorithms",
+    "freq": 36,
+    "score": 3.0,
+    "raw_examples": [
+      "Machine Learning and Algorithms"
+    ]
+  },
+  {
+    "label": "machine learning approach",
+    "freq": 32,
+    "score": 3.0,
+    "raw_examples": [
+      "machine learning approach",
+      "machine learning approach."
+    ]
+  },
+  {
+    "label": "with machine learning",
+    "freq": 31,
+    "score": 3.0,
+    "raw_examples": [
+      "with machine learning"
+    ]
+  },
+  {
+    "label": "supervised machine learning",
+    "freq": 29,
+    "score": 2.95,
+    "raw_examples": [
+      "supervised machine learning",
+      "supervised machine learning."
+    ]
+  },
+  {
+    "label": "machine learning with",
+    "freq": 27,
+    "score": 2.85,
+    "raw_examples": [
+      "machine learning with",
+      "machines learning with"
+    ]
+  },
+  {
+    "label": "machine learning has",
+    "freq": 26,
+    "score": 2.8,
+    "raw_examples": [
+      "machine learning has"
+    ]
+  },
+  {
+    "label": "machine learning systems",
+    "freq": 24,
+    "score": 2.7,
+    "raw_examples": [
+      "machine learning systems",
+      "machine learning systems."
+    ]
+  },
+  {
+    "label": "by machine learning",
+    "freq": 23,
+    "score": 2.65,
+    "raw_examples": [
+      "by machine learning",
+      "by machine learning."
+    ]
+  },
+  {
+    "label": "interpretable machine learning",
+    "freq": 23,
+    "score": 2.65,
+    "raw_examples": [
+      "interpretable machine learning",
+      "interpretable machine learning."
+    ]
+  },
+  {
+    "label": "machine learning applications",
+    "freq": 22,
+    "score": 2.6,
+    "raw_examples": [
+      "machine learning applications",
+      "machine learning applications."
+    ]
+  },
+  {
+    "label": "machine learning the",
+    "freq": 22,
+    "score": 2.6,
+    "raw_examples": [
+      "machine learning the",
+      "machines learning the"
+    ]
+  },
+  {
+    "label": "computer science",
+    "freq": 2853,
+    "score": 2.5,
+    "raw_examples": [
+      "Computer science",
+      "computer science",
+      "computer science."
+    ]
+  },
+  {
+    "label": "artificial intelligence",
+    "freq": 2658,
+    "score": 2.5,
+    "raw_examples": [
+      "Artificial intelligence",
+      "artificial intelligence",
+      "artificial intelligence.",
+      "artificial intelligence..."
+    ]
+  }
+]

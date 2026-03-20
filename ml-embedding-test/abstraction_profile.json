@@ -1,0 +1,32 @@
+{
+  "query": "Machine Learning",
+  "normalized_query": "machine learning",
+  "query_tokens": [
+    "machine",
+    "learning"
+  ],
+  "abstraction_score": 0.144,
+  "ambiguity_score": 0.18,
+  "broadness_score": 0.1,
+  "sibling_shape_score": 0.0,
+  "cluster_symmetry_score": 0.0,
+  "partition_quality_score": 0.7,
+  "concept_type": "family_system",
+  "concept_type_scores": {
+    "field": 0.102,
+    "family_system": 0.172,
+    "object_domain": 0.0892,
+    "umbrella": 0.0
+  },
+  "abstraction_label": "A family of Machine Learning technologies.",
+  "abstraction_mode": "family_refining",
+  "suggested_anchors": [],
+  "dominant_senses": [],
+  "raw_input": "Machine Learning",
+  "canonical_anchor": "machine learning",
+  "input_aliases": [
+    "machine learning"
+  ],
+  "anchor_confidence": 0.65,
+  "forced_concept_type": null
+}

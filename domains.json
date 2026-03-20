@@ -1,15 +1,27 @@
 [
   {
-    "slug": "battery",
-    "title": "battery",
-    "sources": 1007,
-    "effective_papers": 652,
-    "subgenres": 46,
-    "parent_subgenres": 12,
-    "child_subgenres": 34,
-    "entities": 863,
-    "claims": 85,
-    "abstraction_label": "A family of battery technologies.",
-    "updated_at": "2026-03-20T13:11:41.203589Z"
+    "slug": "machine-learning",
+    "title": "Machine Learning",
+    "sources": 1003,
+    "effective_papers": 326,
+    "subgenres": 27,
+    "parent_subgenres": 8,
+    "child_subgenres": 19,
+    "entities": 1567,
+    "claims": 10,
+    "overview_source_ids": [],
+    "overview_partition_summary": {
+      "overview_papers": 0,
+      "topical_papers": 1003,
+      "total_papers": 1003,
+      "facet_counts": {
+        "none": 1003
+      },
+      "gemini_validation_enabled": false,
+      "gemini_validation_ready": false,
+      "title_phrase_candidates": 0
+    },
+    "abstraction_label": "A family of Machine Learning technologies.",
+    "updated_at": "2026-03-20T22:02:01.205945Z"
   }
 ]
