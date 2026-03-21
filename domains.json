@@ -3,11 +3,11 @@
     "slug": "machine-learning",
     "title": "Machine Learning",
     "sources": 1003,
-    "effective_papers": 326,
-    "subgenres": 27,
-    "parent_subgenres": 8,
-    "child_subgenres": 19,
-    "entities": 1567,
+    "effective_papers": 491,
+    "subgenres": 52,
+    "parent_subgenres": 9,
+    "child_subgenres": 43,
+    "entities": 1569,
     "claims": 10,
     "overview_source_ids": [],
     "overview_partition_summary": {
@@ -22,6 +22,6 @@
       "title_phrase_candidates": 0
     },
     "abstraction_label": "A family of Machine Learning technologies.",
-    "updated_at": "2026-03-20T22:02:01.205945Z"
+    "updated_at": "2026-03-21T02:14:29.210942Z"
   }
 ]
