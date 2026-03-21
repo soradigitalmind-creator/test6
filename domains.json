@@ -1,5 +1,30 @@
 [
   {
+    "slug": "battery",
+    "title": "Battery",
+    "sources": 1005,
+    "effective_papers": 638,
+    "subgenres": 56,
+    "parent_subgenres": 11,
+    "child_subgenres": 45,
+    "entities": 854,
+    "claims": 95,
+    "overview_source_ids": [],
+    "overview_partition_summary": {
+      "overview_papers": 0,
+      "topical_papers": 1005,
+      "total_papers": 1005,
+      "facet_counts": {
+        "none": 1005
+      },
+      "gemini_validation_enabled": false,
+      "gemini_validation_ready": false,
+      "title_phrase_candidates": 0
+    },
+    "abstraction_label": "A family of Battery technologies.",
+    "updated_at": "2026-03-21T02:24:50.820889Z"
+  },
+  {
     "slug": "machine-learning",
     "title": "Machine Learning",
     "sources": 1003,
