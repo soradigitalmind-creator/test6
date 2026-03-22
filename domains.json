@@ -2,13 +2,13 @@
   {
     "slug": "battery",
     "title": "battery",
-    "sources": 169,
-    "effective_papers": 131,
-    "subgenres": 46,
-    "parent_subgenres": 14,
-    "child_subgenres": 32,
-    "entities": 403,
-    "claims": 0,
+    "sources": 538,
+    "effective_papers": 518,
+    "subgenres": 37,
+    "parent_subgenres": 8,
+    "child_subgenres": 29,
+    "entities": 1095,
+    "claims": 50,
     "overview_source_ids": [
       "https://openalex.org/W1998062017",
       "https://openalex.org/W2017428530",
@@ -27,48 +27,46 @@
       "https://openalex.org/W2742075475",
       "https://openalex.org/W2796854462",
       "https://openalex.org/W2908542802",
-      "https://openalex.org/W3129486236"
+      "https://openalex.org/W3129486236",
+      "https://openalex.org/W7138837364",
+      "https://openalex.org/W7138843181",
+      "https://openalex.org/W7138859531",
+      "https://openalex.org/W7138862902",
+      "https://openalex.org/W7138863801",
+      "https://openalex.org/W7138870626",
+      "https://openalex.org/W7138877045",
+      "https://openalex.org/W7138877174",
+      "https://openalex.org/W7138886037",
+      "https://openalex.org/W7138928312",
+      "https://openalex.org/W7138936080",
+      "https://openalex.org/W7138939293",
+      "https://openalex.org/W7138975567",
+      "https://openalex.org/W7139021901",
+      "https://openalex.org/W7139052405",
+      "https://openalex.org/W7139058475",
+      "https://openalex.org/W7139059699",
+      "https://openalex.org/W7139081313",
+      "https://openalex.org/W7139091747",
+      "https://openalex.org/W7139101275",
+      "https://openalex.org/W7139125785",
+      "https://openalex.org/W7139935087"
     ],
     "overview_partition_summary": {
-      "overview_papers": 18,
-      "topical_papers": 151,
-      "total_papers": 169,
+      "overview_papers": 40,
+      "topical_papers": 498,
+      "total_papers": 538,
       "facet_counts": {
-        "methods": 1,
-        "none": 151,
+        "benchmark": 1,
+        "methods": 2,
+        "none": 498,
         "outlook": 2,
-        "review": 15
+        "review": 35
       },
       "gemini_validation_enabled": true,
       "gemini_validation_ready": true,
-      "title_phrase_candidates": 19
+      "title_phrase_candidates": 42
     },
     "abstraction_label": "A family of related battery technologies, including advancements in  material, advanced  technology research, advanced  material and technology.",
-    "updated_at": "2026-03-22T02:15:52.463463Z"
-  },
-  {
-    "slug": "psychology",
-    "title": "psychology",
-    "sources": 216,
-    "effective_papers": 172,
-    "subgenres": 53,
-    "parent_subgenres": 6,
-    "child_subgenres": 47,
-    "entities": 583,
-    "claims": 0,
-    "overview_source_ids": [],
-    "overview_partition_summary": {
-      "overview_papers": 0,
-      "topical_papers": 216,
-      "total_papers": 216,
-      "facet_counts": {
-        "none": 216
-      },
-      "gemini_validation_enabled": false,
-      "gemini_validation_ready": false,
-      "title_phrase_candidates": 0
-    },
-    "abstraction_label": "A taxonomy-style research map spanning social, cognitive, applied.",
-    "updated_at": "2026-03-22T02:08:37.429868Z"
+    "updated_at": "2026-03-22T02:45:20.786931Z"
   }
 ]
